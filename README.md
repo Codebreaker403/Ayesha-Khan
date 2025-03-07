@@ -1,8 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!,I'm Codey,Currently a student enrolled in NUST(National University of Sciences and Technology) 👋🏼:
-🛜 <br>👨🏼‍🎓 Studying Information Security<br>👨🏼‍💻  Have always been a Geek for life <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
-
+<br>👨🏼‍🎓 Studying Information Security<br>👨🏼‍💻  Have always been a Geek passionate about computers,what can be done with them,how they work and breaking them <br>
 
 # 💻 Tech Stack:
 
