@@ -1,6 +1,6 @@
 
 
-# Hello World!,I'm Codey,Currently a student enrolled in NUST(National University of Sciences and Technology) 👋🏼:
+# Hello World!,I'm Codey,Currently a student enrolled in NUST(National University of Sciences and Technology) :
 <br>👨🏼‍🎓 Studying Information Security<br>👨🏼‍💻  Have always been a Geek passionate about computers,what can be done with them,how they work and breaking them <br>
 
 # 💻 Tech Stack:
